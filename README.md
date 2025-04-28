@@ -2,7 +2,7 @@
   <img src="doc/source/_static/img/logo.svg" width="150"><br />
 </p>
 
-# fairseq2: FAIR Sequence Modeling Toolkit 2
+# fairseq2: FAIR Sequence Modeling Toolkit 2 (fairseq2 v0.4.5)
 
 [![Nightly](https://github.com/facebookresearch/fairseq2/actions/workflows/nightly.yaml/badge.svg)](https://github.com/facebookresearch/fairseq2/actions/workflows/nightly.yaml)
 [![PyPI version](https://img.shields.io/pypi/v/fairseq2)](https://pypi.org/project/fairseq2/)
